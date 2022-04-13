@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569304553015",
+    "project_id": "fox-hound-3a68a",
+    "storage_bucket": "fox-hound-3a68a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569304553015:android:8fb271869a340e322d91b2",
+        "android_client_info": {
+          "package_name": "com.lcorp.foxhound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569304553015-hni7m0fs8mddekfuv7crvk4hp76flotq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lcorp.foxhound",
+            "certificate_hash": "1662c52cdcf2a1e7e5d1ec27e366bb615181695b"
+          }
+        },
+        {
+          "client_id": "569304553015-6n7q12uc94u622rpa5ehtkv7kt564cnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPNlMi8Ny88R-aGnbKtAujSo_6Mpp2sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569304553015-6n7q12uc94u622rpa5ehtkv7kt564cnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
